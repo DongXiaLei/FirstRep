@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\10066\source\repos\system3\system3\源.cpp(40): warning C4715: “task::request”: 不是所有的控件路径都返回值
+  System3.vcxproj -> c:\Users\10066\source\repos\System3\Debug\System3.exe
+  System3.vcxproj -> c:\Users\10066\source\repos\System3\Debug\System3.pdb (Partial PDB)
